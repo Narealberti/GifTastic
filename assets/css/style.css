@@ -1,0 +1,28 @@
+h1.header {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 80px;
+	text-align: center; 
+	text-transform: uppercase;
+	text-shadow: 3px 2px green;
+	color: black;
+	
+}
+
+
+
+.tabs {
+	margin: 2%;
+	background: green;
+	
+	
+}
+
+.holders {
+	display:inline-block;
+	margin-left: 2%; 
+}
+
+.wallpaper {
+	
+	background-image: url("../images/wallpaper.jpg");
+}
